@@ -1,0 +1,17 @@
+node_modules
+*.pem
+*.zip
+Archive.zip
+*.png
+*.jpg
+*.gif
+*.jpeg
+.DS_Store
+keys
+*.log
+test.js
+.env
+coverage
+*.json
+*.env
+output.env
