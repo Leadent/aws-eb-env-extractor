@@ -12,6 +12,5 @@ keys
 test.js
 .env
 coverage
-*.json
 *.env
 output.env
